@@ -1,7 +1,6 @@
 {
-  "name": "pulse",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,5 +23,15 @@
     "> 1%",
     "maintained node versions",
     "not dead"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oksiww/Portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oksiww/Portfolio/issues"
+  },
+  "homepage": "https://github.com/oksiww/Portfolio#readme",
+  "description": ""
 }
+
